@@ -56,6 +56,10 @@ Install the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings
 - Custom accent/background colors
 - Font and font size
 
+## Note on Network Usage
+
+This theme loads two pixel fonts from Google Fonts: **Silkscreen** and **Press Start 2P**. This requires an internet connection on first load (fonts are cached by the browser afterward).
+
 ## License
 
 [MIT](LICENSE)
